@@ -1,4 +1,4 @@
-![logo](https://www.canva.com/design/DAGBjvs3GUU/R8_0q1QRz7UhXRps00qrxQ/edit?utm_content=DAGBjvs3GUU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm Ayush Negi</h1>
 <h3 align="center">A passionate fullstack developer based in India</h3>
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
