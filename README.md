@@ -1,14 +1,13 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM..)]
+![logo](https://www.canva.com/design/DAGBjvs3GUU/R8_0q1QRz7UhXRps00qrxQ/edit?utm_content=DAGBjvs3GUU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 <h1 align="center">Hi 👋, I'm Ayush Negi</h1>
 <h3 align="center">A passionate software developer who love to make websites, GUI's and (android & IOS) application with ❤️ in India</h3>
-<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushnegi369&label=Profile%20views&color=0e75b6&style=flat" alt="ayushnegi369" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushnegi369" alt="ayushnegi369" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@ayushnegi22" target="blank"><img src="https://img.shields.io/twitter/follow/@ayushnegi22?logo=twitter&style=for-the-badge" alt="@ayushnegi22" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ayushnegi22" target="blank"><img src="https://img.shields.io/twitter/follow/ayushnegi22?logo=twitter&style=for-the-badge" alt="ayushnegi22" /></a> </p>
 
 - 🔭 I’m currently working on **MERN Project**
 
@@ -22,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@ayushnegi22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ayushnegi22" height="30" width="40" /></a>
+<a href="https://twitter.com/ayushnegi22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayushnegi22" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ayush negi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush negi" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ayushnegi369" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ayushnegi369" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ayushnegi369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayushnegi369" height="30" width="40" /></a>
