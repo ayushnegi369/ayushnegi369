@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Android, IOS, AI&ML<br>👯 I’m looking to collaborate on MERN Projects<br>🤝 I’m looking for help with Open Source Contribution<br>🌱 I’m currently learning AI&ML, Android, IOS<br>💬 Ask me about Web Development, App Development<br>⚡ Fun fact - I Learn, I Forget, I Learn Again
+🔭 I’m currently working on Android, IOS, AI&ML<br>👯 I’m looking to collaborate on MERN Projects<br>🤝 I’m looking for help with Open Source Contribution<br>🌱 I’m currently learning AI&ML, Android, IOS<br>💬 Ask me about Web Development, App Development<br>⚡ Fun fact - Learning is my habit.
 
 
 ## 🌐 Socials:
